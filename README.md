@@ -1,2 +1,3 @@
 # git-GIThub
-Tutorials
+# Tutorials
+echo"This is for learning purpose only."
